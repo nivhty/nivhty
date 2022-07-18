@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nivhty
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning how to fully write a web application using Django
+- 🌱 I’m currently learning how to write a Slack apps in Python using Slack Bolt SDK
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me @nivhty on Telegram
 
